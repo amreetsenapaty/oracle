@@ -1,1 +1,1 @@
-select * from dual;
+select systimestamp from dual where rownum<2;
